@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "kidsWithGreatestCandies",
+            "request": "launch",
+            "mainClass": "kidsWithGreatestCandies",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
+            "name": "ShuffleElementsOfArray",
+            "request": "launch",
+            "mainClass": "ShuffleElementsOfArray",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
+            "name": "SplitArrLargestsum",
+            "request": "launch",
+            "mainClass": "SplitArrLargestsum",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
+            "name": "RchestManWealth",
+            "request": "launch",
+            "mainClass": "RchestManWealth",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
+            "name": "PositonOfEleInfiniteArr",
+            "request": "launch",
+            "mainClass": "PositonOfEleInfiniteArr",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
+            "name": "rotatedSortedDistinct",
+            "request": "launch",
+            "mainClass": "rotatedSortedDistinct",
+            "projectName": "JavaCode_1521788d"
+        }
+    ]
+}
