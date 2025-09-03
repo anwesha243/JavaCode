@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
             "name": "kidsWithGreatestCandies",
             "request": "launch",
             "mainClass": "kidsWithGreatestCandies",
