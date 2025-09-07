@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountMatchingItems",
+            "request": "launch",
+            "mainClass": "CountMatchingItems",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
+            "name": "PangramSentence",
+            "request": "launch",
+            "mainClass": "PangramSentence",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
+            "name": "TargetArrayInGivenOrder",
+            "request": "launch",
+            "mainClass": "TargetArrayInGivenOrder",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
+            "name": "SmallerCount",
+            "request": "launch",
+            "mainClass": "SmallerCount",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
             "name": "NumberOfGoodPair",
             "request": "launch",
             "mainClass": "NumberOfGoodPair",
