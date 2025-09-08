@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CyclicSort",
+            "request": "launch",
+            "mainClass": "CyclicSort",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
             "name": "CountMatchingItems",
             "request": "launch",
             "mainClass": "CountMatchingItems",
