@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxPopulationYear",
+            "request": "launch",
+            "mainClass": "MaxPopulationYear",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
+            "name": "AddToArrayFormOfInteger",
+            "request": "launch",
+            "mainClass": "AddToArrayFormOfInteger",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
             "name": "MatrixTranspose",
             "request": "launch",
             "mainClass": "MatrixTranspose",
