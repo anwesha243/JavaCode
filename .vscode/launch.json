@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UniqueNumEndUpZero",
+            "request": "launch",
+            "mainClass": "UniqueNumEndUpZero",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
+            "name": "MatrixRotation",
+            "request": "launch",
+            "mainClass": "MatrixRotation",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
             "name": "MaxPopulationYear",
             "request": "launch",
             "mainClass": "MaxPopulationYear",
