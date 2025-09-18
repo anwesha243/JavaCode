@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LuckyNum",
+            "request": "launch",
+            "mainClass": "LuckyNum",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
             "name": "UniqueNumEndUpZero",
             "request": "launch",
             "mainClass": "UniqueNumEndUpZero",
