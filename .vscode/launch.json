@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximumSubarray",
+            "request": "launch",
+            "mainClass": "MaximumSubarray",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
             "name": "LuckyNum",
             "request": "launch",
             "mainClass": "LuckyNum",
