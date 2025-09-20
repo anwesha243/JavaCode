@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveDuplicateFromSortedArray",
+            "request": "launch",
+            "mainClass": "RemoveDuplicateFromSortedArray",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
             "name": "PlusOne",
             "request": "launch",
             "mainClass": "PlusOne",
