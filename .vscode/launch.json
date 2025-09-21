@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimunCostToMoveChipToSamePos",
+            "request": "launch",
+            "mainClass": "MinimunCostToMoveChipToSamePos",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
             "name": "RemoveDuplicateFromSortedArray",
             "request": "launch",
             "mainClass": "RemoveDuplicateFromSortedArray",
