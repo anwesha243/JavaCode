@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SqrtOfx",
+            "request": "launch",
+            "mainClass": "SqrtOfx",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
+            "name": "GoodArray",
+            "request": "launch",
+            "mainClass": "GoodArray",
+            "projectName": "JavaCode_1521788d"
+        },
+        {
+            "type": "java",
             "name": "FirstMissingPositive",
             "request": "launch",
             "mainClass": "FirstMissingPositive",
